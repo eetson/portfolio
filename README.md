@@ -1,4 +1,4 @@
-# Portfolio.
+# Portfolio
 
 ## Signature RPG system (French)
 (CC-Attribution-NonCommercial-ShareAlike license: https://creativecommons.org/licenses/by-nc-sa/4.0/)
