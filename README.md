@@ -11,6 +11,11 @@ The goal is to move to a generic approach where one resolution mechanic joins fo
 
 That's a mouthful but it boils down to a single type of dice roll and tokens being passed around to influence outcomes.
 
+https://github.com/eetson/signaturetabletop
+
 ## 3D dev work
 Various 3D and procedural projects I've worked on; jams, shaders, planetary gravity and terrain generation.
 ![Portfolio](https://raw.githubusercontent.com/eetson/portfolio/master/Eetson-portfolio-quick.jpg)
+
+## Game Jams
+https://github.com/eetson/gamejams
